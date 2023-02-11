@@ -1,5 +1,6 @@
-#DESCRIPTION:
-######In this kata you have to implement a base converter, which converts positive integers between arbitrary bases / alphabets. Here are some pre-defined alphabets:
+# DESCRIPTION:
+
+###### In this kata you have to implement a base converter, which converts positive integers between arbitrary bases / alphabets. Here are some pre-defined alphabets:
 
 - var Alphabet = {
 - BINARY: '01',
